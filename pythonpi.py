@@ -7,3 +7,5 @@ while True:
  GPIO.output(8, GPIO.HIGH)
  sleep(1)
  
+
+#blinbking of  led
