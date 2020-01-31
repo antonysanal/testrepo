@@ -9,4 +9,6 @@ https://www.youtube.com/watch?v=WccwEm7hDLI
 https://maker.pro/raspberry-pi/tutorial/connecting-raspberry-pi-3-wi-fi-via-bluetooth
 https://www.cnet.com/news/buy-glasses-online-and-save/
 
+*about grub2*https://help.ubuntu.com/community/Grub2/Troubleshooting
+
 *-------------*
