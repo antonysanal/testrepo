@@ -1,14 +1,14 @@
-https://www.youtube.com/watch?v=P2-wobZrqNg
+class in java:::::https://www.youtube.com/watch?v=P2-wobZrqNg
 
-https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
-https://www.youtube.com/watch?v=6vsnJQeB_N4&list=PLlxmoA0rQ-LzrFmbcHy2vUYIr9ZRo83yv&index=7
-https://www.youtube.com/watch?v=j7C4rauXkEk&list=PLUQJuCHtF_OAHZWI_94TJxV2eXxTxQHYh
+complete java tutorials:::::https://beginnersbook.com/java-tutorial-for-beginners-with-examples/
+funts of java:::::https://www.youtube.com/watch?v=6vsnJQeB_N4&list=PLlxmoA0rQ-LzrFmbcHy2vUYIr9ZRo83yv&index=7
 https://www.youtube.com/watch?v=2BM7VuASaJI&list=PLlxmoA0rQ-LzrFmbcHy2vUYIr9ZRo83yv&index=28
-
-https://www.youtube.com/watch?v=WccwEm7hDLI
-https://maker.pro/raspberry-pi/tutorial/connecting-raspberry-pi-3-wi-fi-via-bluetooth
-https://www.cnet.com/news/buy-glasses-online-and-save/
+java complete tutorials:::::https://www.youtube.com/watch?v=j7C4rauXkEk&list=PLUQJuCHtF_OAHZWI_94TJxV2eXxTxQHYh
+ 
+sharing a file via bluetooth b/w phone and pi:::::https://www.youtube.com/watch?v=WccwEm7hDLI
+website for pi connection:::::::https://maker.pro/raspberry-pi/tutorial/connecting-raspberry-pi-3-wi-fi-via-bluetooth
 
 *about grub2*https://help.ubuntu.com/community/Grub2/Troubleshooting
 
 *-------------*
+Android app in instructables::::::https://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studio/
