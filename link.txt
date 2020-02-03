@@ -8,7 +8,7 @@ java complete tutorials:::::https://www.youtube.com/watch?v=j7C4rauXkEk&list=PLU
 sharing a file via bluetooth b/w phone and pi:::::https://www.youtube.com/watch?v=WccwEm7hDLI
 website for pi connection:::::::https://maker.pro/raspberry-pi/tutorial/connecting-raspberry-pi-3-wi-fi-via-bluetooth
 
-*about grub2*https://help.ubuntu.com/community/Grub2/Troubleshooting
+*about grub2* https://help.ubuntu.com/community/Grub2/Troubleshooting
+*android porting*https://www.embitel.com/blog/embedded-blog/5-best-practices-for-porting-of-android-os-to-the-embedded-platforms
 
-*-------------*
 Android app in instructables::::::https://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studio/
