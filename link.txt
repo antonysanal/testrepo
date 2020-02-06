@@ -13,4 +13,5 @@ website for pi connection:::::::https://maker.pro/raspberry-pi/tutorial/connecti
 *android porting*https://www.embedded.com/porting-android-on-embedded-platforms-a-step-wise-approach/
 *A_porting book* https://www.hsc.com/portals/0/uploads/articles/android-porting-on-embedded-platform_v2_0633850602027036930.pdf
 *A_porting book* https://www.youtube.com/watch?v=5E0sdYkvq-Q
+*Android_studio toto*https://www.youtube.com/watch?v=-igAiudpBng
 Android app in instructables::::::https://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studio/
