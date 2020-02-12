@@ -15,3 +15,4 @@ website for pi connection:::::::https://maker.pro/raspberry-pi/tutorial/connecti
 *A_porting book* https://www.youtube.com/watch?v=5E0sdYkvq-Q
 *Android_studio toto*https://www.youtube.com/watch?v=-igAiudpBng
 Android app in instructables::::::https://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studio/
+new
