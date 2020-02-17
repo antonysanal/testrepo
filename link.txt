@@ -16,3 +16,4 @@ website for pi connection:::::::https://maker.pro/raspberry-pi/tutorial/connecti
 *Android_studio toto*https://www.youtube.com/watch?v=-igAiudpBng
 Android app in instructables::::::https://www.instructables.com/id/How-To-Create-An-Android-App-With-Android-Studio/
 new
+*/fastboot commands/* https://completethings.com/all-fastboot-commands-you-should-know/
