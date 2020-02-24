@@ -18,3 +18,4 @@ Android app in instructables::::::https://www.instructables.com/id/How-To-Create
 new
 */fastboot commands/* https://completethings.com/all-fastboot-commands-you-should-know/
 */ ASOP- https://source.android.com/setup/build /*
+pi_3 kernel building */https://www.youtube.com/watch?v=P25xjzZsy-k /*
